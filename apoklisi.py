@@ -13,13 +13,6 @@ try:
 
 
 
-#mylist.remove(max(mylist))	#to exw valei se sxolia gia arxh..meta ta vgazoyme(afairei to max 2 fores k to min 2 fores)
-	
-
-#mylist.remove(max(mylist)) 
-
-#mylist.remove(min(mylist))
-#mylist.remove(min(mylist))
 
 
 
