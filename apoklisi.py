@@ -1,7 +1,7 @@
 try:
 
 
-    mylist = raw_input('Enter your list: ')
+    mylist = raw_input('Enter your list split with coma: ')
     mylist = [int(x) for x in mylist.split(',')] #dwse tous arithmous me koma
 
 
